@@ -1,1 +1,6 @@
-script to run sql
+#!/bin/ksh
+snowsql 
+!spool 
+,off
+
+
